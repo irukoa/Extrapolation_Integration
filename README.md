@@ -1,5 +1,5 @@
 [![Language](https://img.shields.io/badge/-Fortran-734f96?logo=fortran&logoColor=white)](https://github.com/topics/fortran)
-ZENODO_PLACEHOLDER
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10675749.svg)](https://doi.org/10.5281/zenodo.10675749)
 [![Testing suite](https://github.com/irukoa/Extrapolation_Integration/actions/workflows/CI.yml/badge.svg)](https://github.com/irukoa/Extrapolation_Integration/actions/workflows/CI.yml)
 # Extrapolation Integration
 

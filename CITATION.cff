@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: Extrapolation Integration
+message: Integration using the extrapolation method as an array reduction operation.
+type: software
+authors:
+  - given-names: Álvaro
+    family-names: R. Puente-Uriona
+    email: alvaro.ruiz@ehu.eus
+    affiliation: UPV/EHU
+    orcid: 'https://orcid.org/0000-0003-1915-8804'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10675749
+    description: Zenodo
+repository-code: 'https://github.com/irukoa/Extrapolation_Integration'
+url: 'https://github.com/irukoa/Extrapolation_Integration'
+abstract: >-
+  Extrapolation Integration. A Fortran library with
+  utilities to compute the Richardson extrapolation
+  integral of an array.
+keywords:
+  - Fortran
+  - Numerical Analysis
+  - Numerical integration methods
+license: GPL-3.0

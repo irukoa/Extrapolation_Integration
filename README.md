@@ -58,7 +58,7 @@ An automated build is available for [Fortran Package Manager](https://fpm.fortra
 [dependencies]
 Extrapolation_Integration = { git="https://github.com/irukoa/Extrapolation_Integration.git" }
 ```
-to the `fpm.toml` file.
+in the `fpm.toml` file.
 
 <a id="ref1"></a>
 [1] R. L. Burden y J. D. Faires, Numerical analysis, 9. ed., International ed. Belmont, Calif.: Brooks/Cole, 2011, pp. 213-220.
